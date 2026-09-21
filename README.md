@@ -3,7 +3,7 @@
 ## About Me
 - **Name**: 鄭家宇
 - **Email**: s1153336@mail.yzu.edu.tw
-- **GitHub**: [@username](https://github.com/<username>)
+- **GitHub**: [@username](https://github.com/vitus666)
 
 ## About This Site
 This is my personal portfolio and project showcase website built with GitHub Pages.
