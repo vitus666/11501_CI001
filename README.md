@@ -11,6 +11,7 @@ This is my personal portfolio and project showcase website built with GitHub Pag
 ## Featured Projects
 - [Project Name](https://vitus666.github.io/proflie/) — Brief description
 - [Course Repository](https://github.com/vitus666/11501_CI001) — CI001 Course assignments
+- 我的自我介紹專案github連結:https://github.com/vitus666/proflie/tree/main
 
 ## Contact
 Feel free to reach out to me at s1153336@mail.yzu.edu.tw
