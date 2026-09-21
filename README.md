@@ -9,7 +9,7 @@
 This is my personal portfolio and project showcase website built with GitHub Pages.
 
 ## Featured Projects
-- [Project Name](https://vitus666.github.io/proflie/) — Brief description
+- [my blog url](https://vitus666.github.io/proflie/) — my blog url
 - [Course Repository](https://github.com/vitus666/11501_CI001) — CI001 Course assignments
 - 我的自我介紹專案github連結:https://github.com/vitus666/proflie/tree/main
 
